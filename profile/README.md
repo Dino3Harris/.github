@@ -20,4 +20,4 @@ Our solutions enable network engineers to:
 For more information about DinoGlue, please visit our website:  
 🌐 [https://dinoglue.dev](https://dinoglue.dev)
 
-If you require access or have questions, please contact the Dino3Harris team at [dino3harris@gmail.com](mailto:dino3harris@gmail.com).
+Questions? Contact the Dino3Harris team at [dino3harris@gmail.com](mailto:dino3harris@gmail.com).
