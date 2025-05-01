@@ -1,5 +1,3 @@
-# Dino3Harris GitHub Organization
-
 > All repositories in this organization are private, and are not open source.  
 > DinoGlue was developed by the Dino3Harris team as a university capstone project, funded and now owned by L3Harris Technologies, Inc.
 
