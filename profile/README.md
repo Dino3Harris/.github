@@ -1,5 +1,5 @@
-> All repositories in this organization are private, and are not open source.  
-> DinoGlue was developed by the Dino3Harris team as a university capstone project, funded and now owned by L3Harris Technologies, Inc.
+> DinoGlue was developed by the Dino3Harris team as a University of Utah CS capstone project, funded and now owned by L3Harris Technologies, Inc.  
+> As a result, all code in this organization is closed source and cannot be distributed.
 
 ---
 
