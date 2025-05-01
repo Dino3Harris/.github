@@ -1,4 +1,5 @@
-> DinoGlue was developed by the Dino3Harris team as a University of Utah CS capstone project, funded and now owned by L3Harris Technologies, Inc.  
+> DinoGlue was developed by the Dino3Harris team as part of a University of Utah Computer Science capstone project.  
+> The project was funded by L3Harris Technologies, Inc., who now owns all rights to the code.  
 > As a result, all code in this organization is closed source and cannot be distributed.
 
 ---
