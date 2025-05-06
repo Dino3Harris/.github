@@ -18,3 +18,6 @@ Our solutions enable network engineers to:
 
 For more information about DinoGlue, please visit our website:  
 🌐 [https://dinoglue.dev](https://dinoglue.dev)
+
+
+<img src="https://komarev.com/ghpvc/?username=dino3harris&style=flat-square&color=blue" alt="The number of times the profile has been viewed.">
